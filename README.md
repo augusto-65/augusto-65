@@ -3,7 +3,7 @@
 <div dsplay="inline-block">
 <h3>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
 Bem vindos ao meu resposítório Github!
-<h4>Eu sou</h4> 
+<h4>Eu sou Augusto</h4> 
 <h1 align="center">Seu nome </h1>
   
 
@@ -22,8 +22,8 @@ Bem vindos ao meu resposítório Github!
 <!---ESTATÍSTICAS DO GITHUB--->
 <p align="center">
 <a href="https://github.com/LINKDOSEUGIHUB">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AugustoQueiroz13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=augusto-65&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=augusto-65&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
